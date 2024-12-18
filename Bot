@@ -1,0 +1,8 @@
+Done: Lifecycle stage deployment was executed successfully.
+  (√) Done: devTool/install was executed successfully.
+    (√) Done: Azure Functions Core Tools are installed at c:\Users\HP\Downloads\Bot\Bot\devTools\func.
+    (√) Done: Teams App Test Tool is installed at c:\Users\HP\Downloads\Bot\Bot\devTools\teamsapptester.
+  (√) Done: cli/runNpmCommand was executed successfully.
+    (√) Done: `npm install --no-audit` command executed at `c:\Users\HP\Downloads\Bot\Bot\`.
+  (√) Done: File/createOrUpdateEnvironmentFile was executed successfully.
+    (√) Done: Variables have been generated successfully to c:\Users\HP\Downloads\Bot\Bot\.localConfigs.testTool.
